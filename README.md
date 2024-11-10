@@ -2,8 +2,8 @@
 - 👀 I’m interested in codeing and development 
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on full stack developer 
-- 📫 To reach me mail me on dhanush.std79@gmail.ocm
-
+- 📫 To reach me mail me on dhanush.std79@gmail.com
+-Learning enthusiastic
 
 <!---
 DHANUSH0186/DHANUSH0186 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
