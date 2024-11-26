@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DHANUSH0186
+- 👋 Hi, I’m @DHANUSH
 - 👀 I’m interested in codeing and development 
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on full stack developer 
